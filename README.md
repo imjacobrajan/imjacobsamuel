@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jacob Samuel</h1>
+<h1 align="left">Hi 👋, I'm Jacob Rajan</h1>
 
 ###
 

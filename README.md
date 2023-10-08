@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://imjacobsamuel.github.io/portfolio/](https://imjacobsamuel.github.io/portfolio/)
-
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **imjacobsamuel@gmail.com**

@@ -5,12 +5,17 @@
 
 - 🔭 I’m currently working on [Movix](https://github.com/imjacobsamuel/movix)
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://imjacobsamuel.github.io/portfolio/](https://imjacobsamuel.github.io/portfolio/)
+
+- 💬 Ask me about **React js**
 
 - 📫 How to reach me **imjacobsamuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jacob-samuel-0a035a166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-samuel-0a035a166" height="30" width="40" /></a>
 <a href="https://instagram.com/im_jacobsamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_jacobsamuel" height="30" width="40" /></a>
 </p>
 
